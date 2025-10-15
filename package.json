@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "dotenv": "^17.2.3",
     "vite": "latest"
-  },
-  "devDependencies": {}
+  }
 }
